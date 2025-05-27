@@ -1,0 +1,5 @@
+[workspace]
+members = ["crates/ryushi", "crates/ryushi-protocol"]
+
+[workspace.dependencies]
+kameo.git = "https://github.com/tqwewe/kameo"
